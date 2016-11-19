@@ -1,5 +1,7 @@
 # Various
 sandbox*.py
+*.p
+*.pickle
 
 # Data for TensorFlow
 data/
